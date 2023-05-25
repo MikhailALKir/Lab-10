@@ -1,5 +1,5 @@
 import pyaudio
-import word as WORD
+import Word as WORD
 import pyttsx3
 import speech_recognition as sr
 import vosk
